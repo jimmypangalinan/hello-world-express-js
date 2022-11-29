@@ -4,4 +4,6 @@
 
 Now as we have created a server we can successfully start running it to see it’s working, write this command in your terminal to start the express server.
 
-`node app.js`
+```sh
+node app.js
+```
